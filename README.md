@@ -17,8 +17,6 @@ This action is based on [cpdfsqueeze](https://github.com/johnwhitington/cpdfsque
 ## Available versions
 
 * `@v1` latest v1.x release
-* `@latest` points to the latest release
-* `@edge` is the latest development version
 
 ## Example usage
 
